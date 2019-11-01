@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Playfair+Display&display=swap');
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}

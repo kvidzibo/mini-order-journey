@@ -1,0 +1,16 @@
+export default {
+  appPadding: '0 3em',
+  appMobilePadding: '0 1.5em',
+  appWidth: '700px',
+  backgroundColorPrimary: '#2E2F81',
+  backgroundColorSecondary: '#43428D',
+  colorPrimary: '#F8FAFB',
+  colorSecondary: '#E1A5B2',
+  colorError: '#FF80AB',
+  headerFontFamily: '\'Playfair Display\', serif',
+  headerMargin: '0 0 1em 0',
+  inputMargin: '0.5em 0',
+  inputPadding: '0.5em',
+  mobileBreakpoint: '768px',
+  textFontFamily: '\'IBM Plex Sans\', sans-serif',
+}
