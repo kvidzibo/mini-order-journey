@@ -14,11 +14,11 @@
    ```
    $ npm install
    ```
-4. to run it:
-   ```
-   $ npm start
-   ```
-5. to run tests:
+## Running the tests
    ```
    $ npm test
+   ```
+## Running the application
+   ```
+   $ npm start
    ```
